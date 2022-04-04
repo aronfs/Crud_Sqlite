@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Crud_Sqlite</string>
+    <string name="cedula">Cedula</string>
+    <string name="nombre1">Nombre</string>
+    <string name="correo_electronico1">Correo Electronico</string>
+    <string name="crear_cliente1">Crear Cliente</string>
+    <string name="todo1">TODO</string>
+    <string name="crear_cliente">Crear Cliente</string>
+    <string name="listado_cliente">Listado Cliente</string>
+    <string name="todo">TODO</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido1">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="telefono1">Telefono</string>
+    <string name="direcion">Direcion</string>
+    <string name="crear_base">Crear Base</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="direccion">Direccion</string>
+    <string name="apellido">Apellido</string>
+</resources>
